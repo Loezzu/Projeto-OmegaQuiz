@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Omega Quiz - Health</string>
+
+    <!-- Tela Inicial   -->
+
+    <string name="nome_app">Omega Quiz - Health</string>
+    <string name="button_start">Start</string>
+    <string name="button_instruções">Instructions</string>
+    <string name="button_sobre">About</string>
+    <string name="alert_Error">Miss 😟</string>
+
+
+    <!-- Tela de Instrução   -->
+    <string name="voltar">Back</string>
+    <string name="instrucao"> To play Omega Quiz - Health, you need to answer a sequence of questions about your health and when you are not following the recommended by the professionals we will give you tips for changing your lifestyle.   </string>
+
+    <!-- Tela Credito   -->
+
+    <string name="nomes"> Guilherme Denck, Luiz Souza, Bruno Fleck, Rafael Santini</string>
+    <string name="descricao"> is an application with questions and tips about Health. Having as objective it helps the population to have good habits. </string>
+    <string name="titulo">  Omega Quiz - Health </string>
+
+    <!-- Primeira Pergunta -->
+
+    <string name="um">How many hours do you usually sleep per day?</string>
+    <string name="Buttonone">Less than 5 hours </string>
+    <string name="certa">Between 7 and 8 hours</string>
+    <string name="Buttonthree">9 hours or more</string>
+    <string name="Buttonfour">I do not sleep</string>
+
+    <string name="recommend1"> Experts recommend sleeping 7 to 8 hours daily </string>
+    <!-- Segunda Pergunta   -->
+
+    <string name="dois"> Do you weigh your portions of food with the scale? </string>
+    <string name="Buttonone1"> Not at the beginning of the diet, but now I started to weigh </string>
+    <string name="Buttontwo1"> No, I use reference quantities.Spoon, cup, flat plate </string>
+    <string name="certa1"> Yes, since the beginning of the diet </string>
+    <string name="Buttonfour1"> I throw everything on the plate </string>
+
+    <string name="recommend2">Experts recommend that for you to lose weight you must weigh food from the beginning of the diet</string>
+
+
+    <!-- Terceira Pergunta   -->
+
+    <string name="tres"> Do you spend many hours without eating? </string>
+    <string name="Buttonone2"> Yes, I fasting </string>
+    <string name="Buttontwo2"> No, sometimes at breakfast, but I\'m not without food </string>
+    <string name="certa2"> No, I keep the same schedules for meals  </string>
+    <string name="Buttonfour2"> Like the whole day </string>
+
+    <string name="recommend3">Experts recommend that you should stick to the same meal times every day</string>
+
+    <!--  Quarta Pergunta  -->
+
+    <string name="quatro"> How many liters of water do you drink per day? </string>
+    <string name="Buttonone3"> I drink 500 ml </string>
+    <string name="Buttontwo3"> I drink more than 3 liters </string>
+    <string name="certa3"> I drink between 1 liter to 3 liters per day  </string>
+    <string name="Buttonfour3"> I prefer soda </string>
+
+    <string name="recommend4"> Experts recommend that you should drink between 1 liter to 3 liters of water a day to keep your body hydrated</string>
+
+    <!-- Quinta Pergunta   -->
+
+    <string name="quinta"> Do you eat fruit? </string>
+    <string name="Buttonone4"> I eat fruits sometimes </string>
+    <string name="Buttontwo4"> No </string>
+    <string name="certa4"> I eat fruits every day </string>
+    <string name="Buttonfour4"> I prefer a snack </string>
+
+    <string name="recommend5"> Experts recommend that you should eat fruit every day as they have all the nutrients to maintain your good health</string>
+
+    <!--  Sexta Pergunta  -->
+
+    <string name="sexta"> Do you smoke? </string>
+    <string name="Buttonone5"> 1 pack of cigarettes </string>
+    <string name="Buttontwo5"> Between 2 to 4 packs per day </string>
+    <string name="certa5"> I dont smoke </string>
+    <string name="Buttonfour5"> More than 4 packs per day </string>
+
+    <string name="recommend6"> Experts recommend that you do not smoke as it causes several serious health problems </string>
+
+    <!-- Sétima Pergunta   -->
+
+    <string name="setima"> Do you drink alcohol? </string>
+    <string name="Buttonone6"> I drink Sugarcane liquor </string>
+    <string name="Buttontwo6"> I drink Sugarcane liquor and drips </string>
+    <string name="certa6"> I only drink water </string>
+    <string name="Buttonfour6"> I drink everything that is alcohol </string>
+
+    <string name="recommend7">Experts recommend that you do not drink alcohol because it is very bad for your health </string>
+
+    <!--  Oitava Pergunta  -->
+
+    <string name="oitava"> Do you practice stretching? </string>
+    <string name="Buttonone7"> Once a day </string>
+    <string name="Buttontwo7"> No </string>
+    <string name="certa7"> When I wake up, in the afternoon and before bed </string>
+    <string name="Buttonfour7"> Yes, sitting </string>
+
+    <string name="recommend8">Experts recommend that you practice stretching several times a day to not cause injury to your body </string>
+
+    <!-- Nona Pergunta   -->
+
+    <string name="nona"> Do you perform physical exercises? </string>
+    <string name="Buttonone8"> Yes, I play a lot on the computer </string>
+    <string name="Buttontwo8"> 30 seconds of sit-ups </string>
+    <string name="Buttonthree8"> No </string>
+    <string name="certa8"> 5 min or more of physical exercises per day </string>
+
+    <string name="recommend9">Experts recommend that you exercise daily to maintain your fitness </string>
+
+    <!-- Decima Pergunta   -->
+
+    <string name="decima"> Do you eat Fast-Food </string>
+    <string name="Buttonone9"> every day of the week </string>
+    <string name="Buttontwo9"> No </string>
+    <string name="certa9"> Once a week </string>
+    <string name="Buttonfour9"> More than once a week </string>
+
+    <string name="recommend10"> Experts recommend that you do not eat fast food, but as you like eat only once a week </string>
+
+    <!--  Tela Final  -->
+
+    <string name="congrats"> Congratulations, you are healthy enough\nto finish this quiz! </string>
+    <string name="restart">Restart</string>
+    <string name="menu">Main Menu</string>
+</resources>

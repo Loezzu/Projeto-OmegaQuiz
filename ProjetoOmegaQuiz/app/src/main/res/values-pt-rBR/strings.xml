@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OmegaQuiz - Saúde</string>
+
+    <!-- Tela Inicial   -->
+
+    <string name="nome_app">Omega Quiz - Saúde</string>
+    <string name="button_start">Começar</string>
+    <string name="button_instruções">Instruções</string>
+    <string name="button_sobre">Sobre</string>
+    <string name="alert_Error">Errou 😟</string>
+
+
+    <!-- Tela de Instrução   -->
+    <string name="voltar">Voltar</string>
+    <string name="instrucao"> Para jogar Omega Quiz - Saúde, você precisa responder a uma sequência de perguntas sobre sua saúde e quando não estiver seguindo o recomendado pelos profissionais lhe daremos dicas para mudar seu estilo de vida.</string>
+
+    <!-- Tela Credito   -->
+
+    <string name="nomes"> Guilherme Denck, Luiz Souza, Bruno Fleck, Rafael Santini</string>
+    <string name="descricao"> É um aplicativo com dúvidas e dicas sobre Saúde.\nTendo como objetivo ajudar a população a ter bons hábitos. </string>
+    <string name="titulo">  Omega Quiz - Saúde </string>
+
+    <!-- Primeira Pergunta -->
+
+    <string name="um"> Quantas horas você costuma dormir por dia?</string>
+    <string name="Buttonone"> Menos de 5 horas </string>
+    <string name="certa">Entre 7 e 8 horas</string>
+    <string name="Buttonthree">9 horas ou mais</string>
+    <string name="Buttonfour">Eu não durmo</string>
+
+    <string name="recommend1">Especialistas recomendam dormir 7 a 8 horas por dia </string>
+    <!-- Segunda Pergunta   -->
+
+    <string name="dois"> Você pesa suas porções dos alimentos com a balança? </string>
+    <string name="Buttonone1">Não no começo da dieta, mas agora comecei a pesar </string>
+    <string name="Buttontwo1"> Não, eu uso quantidades de referência. Colher, xícara, prato raso </string>
+    <string name="certa1"> Sim, desde o início da dieta </string>
+    <string name="Buttonfour1"> Eu jogo tudo no prato </string>
+
+    <string name="recommend2"> Especialistas recomendam que para você emagrecer você deve pesar os alimentos desde o início da dieta</string>
+
+    <!-- Terceira Pergunta   -->
+
+    <string name="tres"> Você fica muitas horas sem comer ? </string>
+    <string name="Buttonone2">Sim, faço jejum </string>
+    <string name="Buttontwo2"> Não, as vezes em desjejum, mas não fico sem comer  </string>
+    <string name="certa2"> não, cumpro todos os dias os mesmos horários para as refeições  </string>
+    <string name="Buttonfour2"> Como o dia inteiro </string>
+
+    <string name="recommend3"> Especialistas recomendam que você deve cumprir todos os dias os mesmos horários para as refeições</string>
+
+    <!--  Quarta Pergunta  -->
+
+    <string name="quatro"> Você toma quantos litros de agua por dia? </string>
+    <string name="Buttonone3"> Bebo 500 ml </string>
+    <string name="Buttontwo3"> bebo mais de 3 litros</string>
+    <string name="certa3"> bebo entre 1 litro a 3 litros  </string>
+    <string name="Buttonfour3"> Prefiro refri </string>
+
+    <string name="recommend4"> Especialistas recomendam que você deve beber entre 1 litro a 3 litros de água por dia para manter seu corpo hidratado</string>
+
+    <!-- Quinta Pergunta   -->
+
+    <string name="quinta"> Você come frutas? </string>
+    <string name="Buttonone4"> Eu como frutas as vezes  </string>
+    <string name="Buttontwo4"> Não </string>
+    <string name="certa4"> Como frutas todos os dias </string>
+    <string name="Buttonfour4"> Prefiro um salgadinho</string>
+
+    <string name="recommend5"> Especialistas recomendam que você deve comer fruta todos os dias pois elas possuem todos os nutrientes para manter sua saúde boa</string>
+
+    <!--  Sexta Pergunta  -->
+
+    <string name="sexta"> Você fuma? </string>
+    <string name="Buttonone5"> 1 maço de cigarro</string>
+    <string name="Buttontwo5">Entre 2 a 4 maços por dia </string>
+    <string name="certa5"> Não fumo </string>
+    <string name="Buttonfour5"> Mais que 4 maços por dia </string>
+
+    <string name="recommend6"> Especialistas recomendam que você não fume pois causa vários problemas sérios para a saúde </string>
+
+
+
+    <!-- Sétima Pergunta   -->
+
+    <string name="setima"> Você bebe álcool? </string>
+    <string name="Buttonone6"> Bebo cachaça </string>
+    <string name="Buttontwo6"> Bebo cachaça e pinga </string>
+    <string name="certa6"> Só bebo água </string>
+    <string name="Buttonfour6"> Bebo tudo que é álcool </string>
+
+    <string name="recommend7"> Especialistas recomendam que você não beba áloool pois faz muito mal a saúde </string>
+
+    <!--  Oitava Pergunta  -->
+
+    <string name="oitava"> Você pratica alongamentos? </string>
+    <string name="Buttonone7"> 1 vez por dia </string>
+    <string name="Buttontwo7"> Não  </string>
+    <string name="certa7"> Quando acordo, pela tarde e antes de dormir </string>
+    <string name="Buttonfour7"> Sim, sentado</string>
+
+    <string name="recommend8"> Especialistas recomendam que você pratique alongamentos várias vezes ao dia para não causar lesões no seu corpo </string>
+
+    <!-- Nona Pergunta   -->
+
+    <string name="nona"> Você realiza exercícios físicos? </string>
+    <string name="Buttonone8"> Sim, jogo bastante no computador </string>
+    <string name="Buttontwo8"> 30 segundos de abdominais </string>
+    <string name="Buttonthree8"> Não </string>
+    <string name="certa8"> 5 min ou mais de exercícios fisicos por dia </string>
+
+
+    <string name="recommend9"> Especialistas recomendam que você pratique exercícios diariamente para manter sua forma física bem </string>
+
+    <!-- Decima Pergunta   -->
+
+    <string name="decima"> Você come fast-food? </string>
+    <string name="Buttonone9"> todos os dias da semana </string>
+    <string name="Buttontwo9"> Não </string>
+    <string name="certa9"> Uma vez por semana </string>
+    <string name="Buttonfour9"> Mais de Uma vez por semana</string>
+
+    <string name="recommend10"> Especialistas recomendam que você coma fast-food no máximo uma vez na semana </string>
+
+    <!--  Tela Final  -->
+
+    <string name="congrats"> Parabéns, você é saudável o suficiente\npara terminar este quiz! </string>
+    <string name="restart">Reiniciar</string>
+    <string name="menu">Menu Principal</string>
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity7">
+
+    <TextView
+        android:id="@+id/textView2"
+        style="@style/Styleee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="46dp"
+        android:fontFamily="@font/amiri_bold"
+        android:text="@string/quatro"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/numeracao"
+        android:text="4"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonQuestion4_Option1"
+        android:layout_width="@dimen/width_activitymain2"
+        android:layout_height="@dimen/height_activitymain2"
+        android:text="@string/Buttonone3"
+        style="@style/button"
+        app:layout_constraintBottom_toTopOf="@+id/buttonQuestion4_Option3"
+        app:layout_constraintEnd_toStartOf="@+id/buttonQuestion4_Option2"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <Button
+        android:id="@+id/buttonQuestion4_Option2"
+        android:layout_width="@dimen/width_activitymain2"
+        android:layout_height="@dimen/height_activitymain2"
+        android:text="@string/Buttontwo3"
+        style="@style/button"
+        app:layout_constraintBottom_toTopOf="@+id/buttonQuestion4_Option4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/buttonQuestion4_Option1"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <Button
+        android:id="@+id/buttonQuestion4_Option3"
+        style="@style/button"
+        android:layout_width="@dimen/width_activitymain2"
+        android:layout_height="@dimen/height_activitymain2"
+        android:text="@string/Buttonfour3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/buttonQuestion4_Option4"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonQuestion4_Option1" />
+
+    <Button
+        android:id="@+id/buttonQuestion4_Option4"
+        style="@style/button"
+        android:layout_width="@dimen/width_activitymain2"
+        android:layout_height="@dimen/height_activitymain2"
+        android:text="@string/certa3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/buttonQuestion4_Option3"
+        app:layout_constraintTop_toBottomOf="@+id/buttonQuestion4_Option2" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
